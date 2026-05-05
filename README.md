@@ -1,4 +1,4 @@
-# OOPP Template Project
+# OOPP Project
 
 Hey! Welcome to Splitty. This is how to run our project: 
 - Delete any existing databases (h2-database.mv.db files)
